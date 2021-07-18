@@ -30,6 +30,7 @@
     "typescript": "~4.0.2"
   },
   "devDependencies": {
+    "@angular-devkit/build-angular": "~0.1100.7",
     "@types/jasmine": "~3.6.0",
     "@types/node": "^12.11.1",
     "codelyzer": "^6.0.0",
